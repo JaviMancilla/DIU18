@@ -22,6 +22,5 @@ Pasos:
 * Publicar en GitHub haciendo un FORK de este proyecto. 
 
 
-Enlace a repositorio propio de DIU_2018 ==>  https://github.com/JaviMancilla/DIU_2018.git
 
 
